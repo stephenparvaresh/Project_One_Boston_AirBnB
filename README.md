@@ -10,7 +10,7 @@ For this project, I was interestested in using Boston AirBnB data from 2016/2017
 * What words are most used in descriptions and reviews, and how do those correlate?
 * Does time of year affect pricing or availability in certain areas?
 * Build a model to predict the pricing of listings. 
-The full set of files related to this course are available on [Kaggle](https://www.kaggle.com/airbnb/boston)
+The full set of files related to this course are available on [Kaggle](https://www.kaggle.com/airbnb/boston).
 
 # File Descriptions
 There is 1 notebook available here to showcase work related to the above questions. The notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
